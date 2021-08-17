@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "968361625386",
-    "project_id": "trello-clone-bfffe",
-    "storage_bucket": "trello-clone-bfffe.appspot.com"
+    "project_number": "5229667675",
+    "project_id": "workspace-c1b5f",
+    "storage_bucket": "workspace-c1b5f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:968361625386:android:818f181b793013f21fc053",
+        "mobilesdk_app_id": "1:5229667675:android:80042fb04fae193b32667e",
         "android_client_info": {
-          "package_name": "com.example.trelloclone"
+          "package_name": "com.example.Workspace"
         }
       },
       "oauth_client": [
         {
-          "client_id": "968361625386-jav0s2pmafhctag8lhvulrgeo6bcibmu.apps.googleusercontent.com",
+          "client_id": "5229667675-aahhbfg06md8lt0sif758qgmdgfenl08.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjDrcb5ibG29RjM6Q2yyBYnTVw0KUyO3w"
+          "current_key": "AIzaSyBilRSp9KDFra5M7-DNEF6vVYFYLkYvfkA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "968361625386-jav0s2pmafhctag8lhvulrgeo6bcibmu.apps.googleusercontent.com",
+              "client_id": "5229667675-aahhbfg06md8lt0sif758qgmdgfenl08.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

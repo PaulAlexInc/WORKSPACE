@@ -45,8 +45,7 @@ class SignUpActivity : BaseActivity() {
     }
 
     /**
-     * A function to register a user to our app using the Firebase.
-     * For more details visit: https://firebase.google.com/docs/auth/android/custom-auth
+     * Firebase registration.
      */
     private fun registerUser() {
         val name: String = et_name_signUp.text.toString().trim { it <= ' ' }
